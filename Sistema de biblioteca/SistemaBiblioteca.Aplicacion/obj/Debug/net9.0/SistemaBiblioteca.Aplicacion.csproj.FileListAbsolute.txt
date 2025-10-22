@@ -1,0 +1,15 @@
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\bin\Debug\net9.0\SistemaBiblioteca.Aplicacion.deps.json
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\bin\Debug\net9.0\SistemaBiblioteca.Aplicacion.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\bin\Debug\net9.0\SistemaBiblioteca.Aplicacion.pdb
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\bin\Debug\net9.0\SistemaBiblioteca.Dominio.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\bin\Debug\net9.0\SistemaBiblioteca.Dominio.pdb
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.csproj.AssemblyReference.cache
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.AssemblyInfoInputs.cache
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.AssemblyInfo.cs
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaB.8F18670E.Up2Date
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\refint\SistemaBiblioteca.Aplicacion.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\SistemaBiblioteca.Aplicacion.pdb
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Aplicacion\obj\Debug\net9.0\ref\SistemaBiblioteca.Aplicacion.dll
