@@ -1,0 +1,11 @@
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\bin\Debug\net9.0\SistemaBiblioteca.Dominio.deps.json
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\bin\Debug\net9.0\SistemaBiblioteca.Dominio.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\bin\Debug\net9.0\SistemaBiblioteca.Dominio.pdb
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\SistemaBiblioteca.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\SistemaBiblioteca.Dominio.AssemblyInfoInputs.cache
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\SistemaBiblioteca.Dominio.AssemblyInfo.cs
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\SistemaBiblioteca.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\SistemaBiblioteca.Dominio.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\refint\SistemaBiblioteca.Dominio.dll
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\SistemaBiblioteca.Dominio.pdb
+C:\Users\Peip\Sistema de biblioteca\SistemaBiblioteca.Dominio\obj\Debug\net9.0\ref\SistemaBiblioteca.Dominio.dll

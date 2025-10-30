@@ -1,0 +1,55 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SistemaBiblioteca.Consola/1.0.0": {
+        "dependencies": {
+          "SistemaBiblioteca.Aplicacion": "1.0.0"
+        },
+        "runtime": {
+          "SistemaBiblioteca.Consola.dll": {}
+        }
+      },
+      "SistemaBiblioteca.Aplicacion/1.0.0": {
+        "dependencies": {
+          "SistemaBiblioteca.Dominio": "1.0.0"
+        },
+        "runtime": {
+          "SistemaBiblioteca.Aplicacion.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "SistemaBiblioteca.Dominio/1.0.0": {
+        "runtime": {
+          "SistemaBiblioteca.Dominio.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SistemaBiblioteca.Consola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaBiblioteca.Aplicacion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SistemaBiblioteca.Dominio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
